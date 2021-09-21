@@ -16,23 +16,24 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahnniething"
-title_separator          : "-"
+title                    : "ahnniething"
+title_separator          : "&#124;"
 subtitle                 : "In an positive sentence, 'anything' means 'all things'." # site tagline that appears below site title in masthead
 name                     : "Ahn Jeong Eun"
-description              : "Ahnniething Blog"
+description              : "ahnniething blog"
 url                      : "https://ahnniething.gitgub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ahnniething/ahnniething.github.com"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "ahniething" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
+
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "ahnniething" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -101,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ahn Jeong Eun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Java Developer"
+  location         : "Seoul"
+  email            : "ahnniething@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:ahnniething@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
