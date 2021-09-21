@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Ahn Jeong Eun"
-  avatar           : "/assets/images/orchid.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo_orchid.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Java Developer"
   location         : "Seoul"
   email            : "ahnniething@gmail.com"
