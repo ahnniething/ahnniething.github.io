@@ -2,23 +2,23 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "about"
-     url: /about/
-   - title: "projects"
-     url: /projects/
-   - title: "journal"
-     url: /journal/
+   - title: "About me"
+     url: /aboutme/
+   - title: "Category"
+     url: /category/
+   - title: "Year"
+     url: /year/
   # - title: "Sitemap"
   #   url: /sitemap/
   
-  docs:
+docs:
   - title: Java
     children:
-      - title: "Quick-Start Guide"
+      - title: "aaa"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "bbb"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "ccc"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "ddd"
         url: /docs/upgrading/
