@@ -12,7 +12,7 @@
     {%- when "lunr" -%}
       {% include_cached search/lunr-search-scripts.html %}
     {%- when "google" -%}
-      {% include_cached search/google-search-scripts.html %}
+      {% include_cached search/google-search-scripts.html %}https://github.com/ahnniething/ahnniething.github.io/blob/master/_includes/scripts.html
     {%- when "algolia" -%}
       {% include_cached search/algolia-search-scripts.html %}
   {%- endcase -%}
@@ -26,3 +26,27 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+
+<!-- for main sidebar of categories -->
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+<script>
+  new Vue({
+    el : '#category_tag_menu',
+    data : {
+      flag_c : false,
+      flag_t : false
+    },
+    methods : {
+      togglec: function(){
+        this.flag_c = !this.flag_c;
+      },
+      togglet: function(){
+        this.flag_t = !this.flag_t;
+      }
+    }
+  });
+
+</script>  
+
