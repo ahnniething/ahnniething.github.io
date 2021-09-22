@@ -1,6 +1,6 @@
 ---
-title: "Journal"
+title: "Categories"
 layout: categories
-permalink: /journal/
+permalink: /categories/
 author_profile: true
 ---
