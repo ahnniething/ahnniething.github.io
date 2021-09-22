@@ -4,8 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About me"
      url: /aboutme/
-   - title: "Category"
-     url: /category/
+   - title: "Categories"
+     url: /categories/
    - title: "Year"
      url: /year/
   # - title: "Sitemap"
