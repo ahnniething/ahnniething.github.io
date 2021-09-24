@@ -4,21 +4,9 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About me"
      url: /aboutme/
-   - title: "Categories"
+   - title: "Posts"
      url: /categories/
-   - title: "Year"
-     url: /year/
+  # - title: "Year"
+  #  url: /year/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
-docs:
-  - title: Java
-    children:
-      - title: "aaa"
-        url: /docs/quick-start-guide/
-      - title: "bbb"
-        url: /docs/structure/
-      - title: "ccc"
-        url: /docs/installation/
-      - title: "ddd"
-        url: /docs/upgrading/
