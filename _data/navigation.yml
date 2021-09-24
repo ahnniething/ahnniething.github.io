@@ -11,9 +11,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-  #about links
-  about : 
-    - title: Getting Started
+#about links
+about : 
+   - title: Getting Started
       children:
         - title: "Quick-Start Guide"
           url: /docs/quick-start-guide/
@@ -24,7 +24,7 @@ main:
         - title: "Upgrading"
           url: /docs/upgrading/
 
-    - title: Customization
+   - title: Customization
       children:
         - title: "Configuration"
           url: /docs/configuration/
@@ -37,7 +37,7 @@ main:
         - title: "Layouts"
           url: /docs/layouts/
 
-    - title: Content
+   - title: Content
       children:
         - title: "Working with Posts"
           url: /docs/posts/
@@ -50,7 +50,7 @@ main:
         - title: "Utility Classes"
           url: /docs/utility-classes/
 
-    - title: Extras
+   - title: Extras
       children:
         - title: "Stylesheets"
           url: /docs/stylesheets/
