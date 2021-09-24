@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ENTJ 개발자 Ahnnie"
+title                    : "Ahnniething"
 title_separator          : "&#124;"
 subtitle                 : "In an positive sentence, 'anything' means 'all things'." # site tagline that appears below site title in masthead
 name                     : "Ahnnie"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeongeun Ahn"
-  avatar           : "/assets/images/logo_orchid.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Java Web Developer"
+  name             : "ENTJ 개발자 Ahnnie"
+  avatar           : "/assets/images/github_blog_logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Java/Spring Web Developer"
   location         : "Seoul, South Korea"
   email            : "ahnniething@gmail.com"
   links:
