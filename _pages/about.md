@@ -2,11 +2,8 @@
 title: "About"
 permalink: /about/
 layout: single
-author_profile: true
+author_profile: false
 sidebar:
-  - title: "Title"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  nav : "about"
 ---
 
