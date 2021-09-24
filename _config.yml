@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ahnniething"
+title                    : "ENTJ 개발자 Ahnnie"
 title_separator          : "&#124;"
 subtitle                 : "In an positive sentence, 'anything' means 'all things'." # site tagline that appears below site title in masthead
-name                     : "Ahn Jeong Eun"
+name                     : "Ahnnie"
 description              : "ahnniething blog"
 url                      : "https://ahnniething.gitgub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
