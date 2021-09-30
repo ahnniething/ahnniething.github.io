@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahnniething"
+title                    : "Ahnnie의 개발 블로그"
 title_separator          : "&#124;"
-subtitle                 : "In an positive sentence, 'anything' means 'all things'." # site tagline that appears below site title in masthead
+subtitle                 : "Backend Web Developer" # site tagline that appears below site title in masthead
 name                     : "Ahnnie"
 description              : "ahnniething blog"
 url                      : "https://ahnniething.gitgub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "ENTJ 개발자 Ahnnie"
-  avatar           : "/assets/images/github_blog_logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Java/Spring Web Developer"
+  name             : "Ahnnie"
+  avatar           : "/assets/images/github_blog_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "In an positive sentence, 'anything' means 'all things'!"
   location         : "Seoul, South Korea"
   email            : "ahnniething@gmail.com"
   links:
